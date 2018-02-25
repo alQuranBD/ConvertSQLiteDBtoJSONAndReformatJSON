@@ -1,0 +1,22 @@
+{
+  "name": "convertsqlitedbtojson",
+  "version": "1.0.0",
+  "description": "This tool is created for use alQuranBD/BanglaQuran App Development .db to .json conversion need and reformat previous arabic ayah json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sqlite",
+    "json",
+    "sqlite",
+    "to",
+    "json"
+  ],
+  "author": "iamriajul (Riajul Islam)",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite-json": "^1.0.1"
+  }
+}
